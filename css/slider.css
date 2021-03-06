@@ -1,0 +1,23 @@
+.carousel-item {
+  display: relative;
+}
+
+.text-bg h1 {
+  font-size: 80px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.button_section button {
+  font-size: 18px;
+}
+
+.modal-title {
+  color: #000;
+  text-align: center;
+}
+
+.text-bg h1.subtitle {
+  font-size: 40px;
+  color: #fff;
+}
