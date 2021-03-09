@@ -453,6 +453,13 @@ a.readmore_bt {
   float: left;
   position: relative;
   top: -22px;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.logo img {
+  margin-left: 20%;
 }
 
 nav.main-menu {
