@@ -451,11 +451,6 @@ a.readmore_bt {
 
 .logo {
   float: left;
-  position: relative;
-  top: -22px;
-  display: flex;
-  flex-flow: column;
-  align-items: center;
 }
 
 .logo img {
